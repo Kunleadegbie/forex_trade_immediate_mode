@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+smtplib
+email-validator
+streamlit-autorefresh
