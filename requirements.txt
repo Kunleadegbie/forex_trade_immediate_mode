@@ -1,7 +1,6 @@
 streamlit
 pandas
 numpy
-smtplib
 email-validator
 schedule
 python-dotenv
