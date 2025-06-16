@@ -4,3 +4,4 @@ numpy
 email-validator
 schedule
 python-dotenv
+streamlit-autorefresh
