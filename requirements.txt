@@ -3,4 +3,5 @@ pandas
 numpy
 smtplib
 email-validator
-streamlit-autorefresh
+schedule
+python-dotenv
